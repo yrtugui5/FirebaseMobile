@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338091886275",
+    "project_id": "appsantamobile",
+    "storage_bucket": "appsantamobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338091886275:android:d705210eaf07a77ebd8476",
+        "android_client_info": {
+          "package_name": "br.unisanta.appsanta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338091886275-023o7b9uq4vqbu4ddvc1plf4q5dfvpck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkExWnQqP5VAWI6mtU-kschoW8GlIdFeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338091886275-023o7b9uq4vqbu4ddvc1plf4q5dfvpck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
